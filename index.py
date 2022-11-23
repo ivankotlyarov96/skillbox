@@ -21,6 +21,6 @@ def check_payment_account(number):
                             break
                         print('Расчётный счёт  должен содержать 20 цифр!')
   return number
-SEPARATOR = '------------------------------------------'
+-----------------------------------------'
 
 name = ''fsddfsfds
