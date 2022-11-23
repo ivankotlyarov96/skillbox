@@ -19,7 +19,6 @@ def check_payment_account(number):
                         number = int(input('Введите расчетный счет: '))
                         if len (str(number)) == 20:
                             break
-                        print('Расчётный счёт  должен содержать 20 цифр!')
   return number
 -----------------------------------------'
 
