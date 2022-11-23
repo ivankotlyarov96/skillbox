@@ -23,3 +23,19 @@ def check_payment_account(number):
 -----------------------------------------'
 
 name = ''fsddfsfds
+def check_payment_account(number):
+  while 1:
+                        number = int(input('Введите расчетный счет: '))
+                        if len (str(number)) == 20:
+                            break
+  return numberdef check_payment_account(number):
+  while 1:
+                        number = int(input('Введите расчетный счет: '))
+                        if len (str(number)) == 20:
+                            break
+  return numberdef check_payment_account(number):
+  while 1:
+                        number = int(input('Введите расчетный счет: '))
+                        if len (str(number)) == 20:
+                            break
+  return numberv
